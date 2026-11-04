@@ -4,7 +4,7 @@ A simple, low-cost water level indicator built with an **Arduino UNO R4 WiFi**, 
 
 
 
->  **Full demo video:** [`media/demo.mp4`](media/demo.mp4)
+>  **Full demo video:** [`Video.mp4`](https://drive.google.com/file/d/1TOFT4Rwp5Aa3DeH3G5Nczru-uN2uV2fm/view?usp=sharing)
 
 ---
 
